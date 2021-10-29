@@ -8,11 +8,11 @@ ETH Converter Pro is a simple chrome extension which allows you to instantly see
 
 🖌 Figma design V1
 
-![Chrome Extension _ ETH Converter Pro](https://user-images.githubusercontent.com/10677178/139456015-7bdef08c-d42b-4a78-84ce-367192b55408.png)
+<img width="357" alt="Screenshot at Oct 29 16-56-17" src="https://user-images.githubusercontent.com/10677178/139456966-616e293a-1c53-4ab3-9d26-5cfcf5141d08.png">
 
 🖌 Figma design v2 
 
-![Chrome Extension _ ETH Converter Pro (1)](https://user-images.githubusercontent.com/10677178/139456119-e2092d09-b0c3-40d7-839e-de286ccf76c9.png)
+<img width="359" alt="Screenshot at Oct 29 16-57-01" src="https://user-images.githubusercontent.com/10677178/139457106-d15d16c6-4d12-421b-b032-9db1ddc515cf.png">
 
 🚀 Final Extension result
 
