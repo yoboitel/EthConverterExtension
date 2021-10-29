@@ -18,7 +18,7 @@ ETH Converter Pro is a simple chrome extension which allows you to instantly see
 
 <img width="317" alt="Screenshot at Oct 29 16-53-06" src="https://user-images.githubusercontent.com/10677178/139456468-acbac637-afc4-4510-9ee0-1f7bb1adb027.png">
 
-Chrome appstore link : 
+Chrome webstore link : 
 [Coming soon]
 
 
