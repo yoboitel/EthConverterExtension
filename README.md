@@ -2,6 +2,9 @@
 
 ETH Converter Pro is a simple chrome extension which allows you to instantly see the equivalent in Usd or Euro for a specified Ether value. Data is retrieved using Coingecko's V3 api.
 
+📥 Chrome webstore link : 
+https://chrome.google.com/webstore/detail/eth-converter-pro/ehdanfhjclpbkedbfhomigmlgcphkhej
+
 📷 Extension's Icon 
 
 ![Frame 2 (5)](https://user-images.githubusercontent.com/10677178/139455702-434c9e6b-4e04-431b-a0ae-c33b509c29ee.png)
@@ -17,9 +20,6 @@ ETH Converter Pro is a simple chrome extension which allows you to instantly see
 🚀 Final Extension result
 
 <img width="317" alt="Screenshot at Oct 29 16-53-06" src="https://user-images.githubusercontent.com/10677178/139456468-acbac637-afc4-4510-9ee0-1f7bb1adb027.png">
-
-Chrome webstore link : 
-[Coming soon]
 
 
 
