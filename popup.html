@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ETH Converter PRO</title>
+    <link href="popup.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+
+    <!--Title-->
+    <p style="font-size: 20px;">🚀 ETH Converter Pro</p>
+    
+    <div style="display: flex; background-color: white; border-radius: 5px; box-shadow: 0px 0px 5px rgb(212, 212, 212);">
+
+    <!--Input group-->
+    <div style="display: flex; align-items: center; flex: 1 1 0px; justify-content: end;">
+        <input style="font-family: Nunito; text-align: center; font-size: 17px;border: solid rgb(230, 230, 230); border-width: 3px; border-radius: 5px; padding-left: 3px; padding-right: 3px; padding-top: 2px; padding-bottom: 2px;" type="number" min="0" max="9999" id="input_eth">
+        <label for="input_eth" style="margin-left: 5px; font-size: 20px;">Ether</label>
+    </div>
+
+    <div style="width: 60px; display: flex; justify-content: center; position: relative;">
+        <img src="/images/dash2.png" style="max-width: 100%; position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);"/>
+        <p style="font-size: 25px; display: flex;align-items: center; position: absolute; top: 27%; left: 50%; transform: translate(-50%,-50%);">=</p>
+    </div>
+
+    <!--Prices group-->
+    <div style="flex: 1 1 0px;">
+        <p id="text_eur_price" style="font-size: 17px;"></p>
+        <p id="text_usd_price" style="font-size: 17px;"></p>
+    </div>
+
+    </div>
+
+    <!--24h change group-->
+    <div style="display: flex; justify-content: space-between;">
+        <div style="display: flex;">
+            <p style="font-size: 15px; margin-right: 5px;">Last 24h :</p>
+            <p id="text_usd_24h" style="font-size: 15px;"></p>
+        </div>
+        <div style="display: flex; align-items: center;">
+            <p style="color: lightgrey;">👨‍💻 @yoboitel</p>
+        </div>
+    </div>
+
+
+    <script src='popup.js'></script>
+</body>
+</html>
